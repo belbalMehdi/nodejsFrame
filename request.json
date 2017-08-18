@@ -1,0 +1,1 @@
+{"params":{"name":"khra","age":"chkoupi"},"paths":["mehdi","chef","200"],"method":"POST","body":"{\r\n  \"id\" : 55,\r\n  \"name\" : \"theName\",\r\n  \"email\" : \"theEmail@Email.com\",\r\n  \"auth\" : \"admin\"\r\n}"}
